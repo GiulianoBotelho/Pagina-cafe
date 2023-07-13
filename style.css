@@ -7,7 +7,7 @@
 }
 
 header{
-    box-shadow: 0 0 0 1px grey;
+    box-shadow: 0 0 0 0.1px;
     height: 10vh;
     /* border: solid  2px rgb(209, 205, 205); */
     display: flex;
